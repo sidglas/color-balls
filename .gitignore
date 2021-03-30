@@ -1,5 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 #so para ver alterei no githubdesktop do windows.
+#revendo, pois agora que está no linux, alterando AQUI no linux
 
 # dependencies
 /node_modules
